@@ -1,0 +1,50 @@
+.background {
+    background: hsl(217, 54%, 11%);
+    color: #fff;
+    font-family: 'Outfit', sans-serif;
+}
+
+.nft-card {
+    background: hsl(216, 50%, 16%);
+    width: 260px;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.card-text {
+    font-size: 14px;
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+}
+
+.eth {
+    color: hsl(178, 100%, 50%);
+    font-size: 12px;
+}
+
+.mr-7 {
+    margin-right: 7px;
+}
+
+.time {
+    color: hsl(215, 51%, 70%);
+    font-size: 12px;
+}
+
+.set {
+    position: relative;
+    top: -1px;
+}
+
+hr{
+    margin-top: 0px;
+    color: hsl(215, 51%, 70%);
+}
+
+.avatar-text{
+    font-size: 12px;
+    padding-left: 6px;
+}
